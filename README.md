@@ -2,6 +2,10 @@
 
 A professional macOS client for [Ollama](https://ollama.ai), empowering you to chat with local AI models through an elegant native interface.
 
+## Download
+
+**[Download Ollamac Pro from ollamac.com](https://ollamac.com)**
+
 ## Features
 
 - **Multiple Conversations**: Create and manage multiple chat sessions
